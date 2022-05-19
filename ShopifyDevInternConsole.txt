@@ -1,0 +1,106 @@
+Welcome to Logistics Co. What would you like to do?
+
+1.) Create or add inventory
+2.) Delete inventory
+3.) Modify inventory
+4.) View inventory
+5.) Quit program
+1
+Please enter the name or number of the warehouse
+Wally1
+Enter the unique identifier of the warehouse
+1
+Please enter the amount of inventory
+1400
+Welcome to Logistics Co. What would you like to do?
+
+1.) Create or add inventory
+2.) Delete inventory
+3.) Modify inventory
+4.) View inventory
+5.) Quit program
+1
+Please enter the name or number of the warehouse
+Wally2
+Enter the unique identifier of the warehouse
+2
+Please enter the amount of inventory
+3000
+Welcome to Logistics Co. What would you like to do?
+
+1.) Create or add inventory
+2.) Delete inventory
+3.) Modify inventory
+4.) View inventory
+5.) Quit program
+1
+Please enter the name or number of the warehouse
+Wall3
+Enter the unique identifier of the warehouse
+3
+Please enter the amount of inventory
+4500
+Welcome to Logistics Co. What would you like to do?
+
+1.) Create or add inventory
+2.) Delete inventory
+3.) Modify inventory
+4.) View inventory
+5.) Quit program
+4
+Warehouse Name|| Warehouse ID Number|| Number of Inventory
+Wally1     ||1     ||1400
+Wally2     ||2     ||3000
+Wall3     ||3     ||4500
+Welcome to Logistics Co. What would you like to do?
+
+1.) Create or add inventory
+2.) Delete inventory
+3.) Modify inventory
+4.) View inventory
+5.) Quit program
+2
+0.Wally1
+1.Wally2
+2.Wall3
+What inventory would you like to delete?
+2
+Warehouse inventory successfully deleted.
+Welcome to Logistics Co. What would you like to do?
+
+1.) Create or add inventory
+2.) Delete inventory
+3.) Modify inventory
+4.) View inventory
+5.) Quit program
+3
+0.Wally1
+1.Wally2
+What inventory number would you like to modify?
+1
+Please enter the name or number of the warehouse under modification
+Wally2
+Enter the unique identifier of the warehouse
+2
+Please enter the amount of inventory
+5000
+Welcome to Logistics Co. What would you like to do?
+
+1.) Create or add inventory
+2.) Delete inventory
+3.) Modify inventory
+4.) View inventory
+5.) Quit program
+4
+Warehouse Name|| Warehouse ID Number|| Number of Inventory
+Wally1     ||1     ||1400
+Wally2     ||2     ||5000
+Welcome to Logistics Co. What would you like to do?
+
+1.) Create or add inventory
+2.) Delete inventory
+3.) Modify inventory
+4.) View inventory
+5.) Quit program
+5
+Thank you for using the program. Goodbye.
