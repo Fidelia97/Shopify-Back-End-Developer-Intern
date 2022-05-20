@@ -1,4 +1,5 @@
-# Shopify-Back-End-Developer-Intern
+# Shopify-Back-End-Developer-Intern - [![Run on Repl.it](https://repl.it/badge/github/Fidelia97/Shopify-Back-End-Developer-Intern.git)](https://repl.it/github/Fidelia97/Shopify-Back-End-Developer-Intern.git)
+
 The inventory program created was for a fictional company by the name Logistics Co. All the classes, three classes, are coded in Java and they make up the backend of the program. The class, Inventory Class 1, introduces the attributes that will be used in the program.  An ArrayList is used to store the company's inventory and getters and setters are also used to encapsulate the attributes. I also chose to include my outputs in the console as back up because my experience with Replit has been anything but pleasant.
 
 The second class, Inventory Class 2, has all the main code of the program. The main functions included are: adding, updating, deleting, viewing and exiting the program.
